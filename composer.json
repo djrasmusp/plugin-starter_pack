@@ -1,0 +1,14 @@
+{
+    "name": "aveo/starter_pack",
+    "authors": [
+        {
+            "name": "Rasmus P",
+            "email": "rp@aveo.dk"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PLUGIN_StarterPack\\": "./app"
+        }
+    }
+}

@@ -1,0 +1,3 @@
+<?php
+
+// Beauty of silence
